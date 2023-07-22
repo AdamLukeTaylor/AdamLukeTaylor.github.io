@@ -2,12 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2023-07-18</lastmod>
+         <lastmod>2023-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/page/</loc>
-         <lastmod>2023-07-18</lastmod>
+         <loc>https://example.com/cake/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/flowers/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/food/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/photo/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/room/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/taxi/</loc>
+         <lastmod>2023-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
